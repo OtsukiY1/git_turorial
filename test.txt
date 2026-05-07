@@ -1,5 +1,6 @@
 this is test text for git. 
-file version is 1.
+file version is 2.
+
 １. 「i」と入力してインサートモードに変更
 ２. 好きなように編集
 ３. ESCキーを押してインサートモードを終了
