@@ -1,5 +1,5 @@
 this is test text for git. 
-file version is 2.
+file version is 3.
 
 １. 「i」と入力してインサートモードに変更
 ２. 好きなように編集
